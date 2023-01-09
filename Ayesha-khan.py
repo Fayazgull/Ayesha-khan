@@ -174,7 +174,7 @@ os.system("clear")
 
 \033[1;31moo___oo_oo____o_oo___oo_oo____o__oo____oo___oo__oo__oo___oo_
 
-\033[1;92m_ooooo__oo____o__oooo_o_oo____o_oooooo__oooo_o_oooo_oooooo__
+\033[1;92m_ooooo__oo____o__oooo_o_oo____o_oooooo__oooo_o_oooo_oooooo
 
  \033[1;91m Ayesha Khan The Tricker
 
