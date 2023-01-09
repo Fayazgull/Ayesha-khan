@@ -158,7 +158,7 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 
-print  """
+
 
  
 
